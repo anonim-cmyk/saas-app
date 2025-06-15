@@ -1,10 +1,10 @@
 import React from "react";
 import { Button } from "@/components/ui/button";
+import Navbar from "@/components/Navbar";
 const Page = () => {
   return (
     <>
-      <div>Welcome To My Hello World</div>
-      <Button>Button</Button>
+      <div>Hello World</div>
     </>
   );
 };
